@@ -1,8 +1,8 @@
-[circleci]: https://circleci.com/gh/rubykube/workbench
+[circleci]: https://circleci.com/gh/peatiotrade/workbench
 
 # Workbench
 
-[![CircleCI](https://circleci.com/gh/rubykube/workbench.svg?style=svg)][circleci]
+[![CircleCI](https://circleci.com/gh/peatiotrade/workbench.svg?style=svg)][circleci]
 
 Workbench is an easy way to start Peatio development environment.
 
@@ -18,7 +18,7 @@ Workbench is an easy way to start Peatio development environment.
 1. Recursive clone
 
 ```sh
-git clone --recursive https://github.com/rubykube/workbench.git
+git clone --recursive https://github.com/peatiotrade/workbench.git
 ```
 
 2. Move to workbench
